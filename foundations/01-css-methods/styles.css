@@ -1,0 +1,19 @@
+.common1 {
+   color: white;
+}
+
+.common2 {
+    font-size: 18px;
+}
+
+div{
+    background-color: red;
+}
+
+p{
+    background-color: green;
+}
+
+button{
+    background-color: orange;
+}
